@@ -8,7 +8,8 @@ All public Arbitrum chains include a [canonical token bridge deployment](https:/
 
 The Token Bridge includes "Gateway" contracts — pairs of contracts that implement a particular token-bridging flow — as well as "Gateway Router" contracts, which map tokens to their respective gateways.
 
-See the [developer documentation](https://developer.arbitrum.io/asset-bridging) for more info.
+See the [developer documentation](https://
+developer.arbitrum.io/asset-bridging) for more info.
 
 See security audit reports [here](./audits).
 
